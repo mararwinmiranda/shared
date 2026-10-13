@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Barangay Poblacion Birth Certificate",
+    "slug": "barangay-poblacion-birth-certificate",
+    "scheme": "poblacionbirth",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "experiments": {
+      "typedRoutes": false
+    },
+    "plugins": [
+      "expo-router",
+      "expo-asset",
+      "expo-font"
+    ]
+  }
+}
