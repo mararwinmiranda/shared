@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Barangay Poblacion Requests",
+    "slug": "barangay-poblacion-mobile",
+    "scheme": "poblacionrequests",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      "expo-router",
+      "expo-document-picker",
+      "expo-asset",
+      "expo-font"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}

@@ -1,3 +1,21 @@
 cd "lesson 4 - to do list/my-todo-app"
 npm ci
 npx expo start
+
+
+commiting with nested git:
+git status
+Remove-Item -Recurse -Force "lesson 5 - my-todo-app-expressJS/my-todo-app-expressJS/.git"
+git add .
+git status
+
+installing express JS dependencies:
+npm install
+npm install express
+npm install cors
+
+Run Express JS server:
+node index.js
+
+Initializing package json:
+npm init -y
