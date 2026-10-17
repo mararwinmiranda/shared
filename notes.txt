@@ -19,3 +19,12 @@ node index.js
 
 Initializing package json:
 npm init -y
+
+XAMPP:
+Step 1: Change XAMPP's MariaDB port
+1. Open the XAMPP Control Panel.
+2. Click Config beside MySQL.
+3. Open my.ini.
+4. Find the port settings under [client] and [mysqld], typically:
+
+Go to C:\xampp\phpMyAdmin\config.inc.php
